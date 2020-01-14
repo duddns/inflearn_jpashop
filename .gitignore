@@ -1,0 +1,33 @@
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+/*/build/
+
+# Log Files
+*.log
+logs/
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
+.settings
+.springBeans
+
+# IDEA
+.idea
+
+*.bak
+/gradle.properties
